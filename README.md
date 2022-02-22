@@ -1,2 +1,2 @@
 # Hackthebox
-CTF writeups for HTB
+# CTF writeups from HTB
