@@ -21,6 +21,7 @@ Run the exploit and a session is gained.
 ![image](https://user-images.githubusercontent.com/93418272/177589157-ce361aab-9004-4cfe-873c-fc674166bfb3.png)
 
 Change directory to administrator and desktop and a flags folder is found.
+
 ![image](https://user-images.githubusercontent.com/93418272/177589183-df6c6758-cace-4d39-abc5-549deaf4864d.png)
 
 Both flags are found.
