@@ -17,12 +17,15 @@ Set up the necessary option values.
 ![image](https://user-images.githubusercontent.com/93418272/177671797-7b790112-89cd-4097-957a-a1cc1de8a9ed.png)
 
 Run the exploit.
+
 ![image](https://user-images.githubusercontent.com/93418272/177671810-b14fc874-eaaf-48b1-a5e0-30fab0d4cb52.png)
 
 Session is gained.
 
 Change directory to user Harris desktop to get the user flag.
+
 ![image](https://user-images.githubusercontent.com/93418272/177671843-aff7b874-7e8f-4dbf-b67b-9070f936f7c6.png)
 
 Head to the root desktop to get the root flag.
+
 ![image](https://user-images.githubusercontent.com/93418272/177671860-b517bee9-1f92-4030-9e44-deff35667264.png)
