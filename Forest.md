@@ -103,7 +103,7 @@ Crack the hash with crackmapexec
 
 Use psexec.py to gain a shell.
 
-![image](https://user-images.githubusercontent.com/93418272/184115394-685b97be-58d3-4e2f-8614-129c45b9e343.png)
+![image](https://user-images.githubusercontent.com/93418272/184115639-6aaaa68f-b62c-43e7-a288-8e7baa11d5a8.png)
 
 
 Root flag is found.
